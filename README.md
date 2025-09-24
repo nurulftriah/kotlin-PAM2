@@ -1,7 +1,5 @@
 # Kotlin Dasar Lanjutan
 
-Repository ini berisi kumpulan modul dan contoh kode untuk mata kuliah **Kotlin Dasar (Lanjutan)**.
-
 ## 📂 Struktur Folder
 
 ```
