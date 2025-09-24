@@ -37,7 +37,4 @@ Kotlin-Dasar-Lanjutan/
 
 3. Untuk modul Android, buka di **Android Studio**.
 
----
-
-✍️ Dibuat untuk kebutuhan pembelajaran Kotlin Dasar (Lanjutan).
 
